@@ -13,7 +13,7 @@ PKG_REV:=master
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.bz2
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_REV)
-PKG_SOURCE_URL:=git@github.com:hintjens/zyre.git
+PKG_SOURCE_URL:=git://github.com/hintjens/zyre.git
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_VERSION:=$(PKG_REV)
 
